@@ -71,7 +71,7 @@ sigru
 
 ### 5. Importar banco
 
-Importar o arquivo:
+Importar os arquivos:
 
 ```txt
 sigru_create.sql
@@ -82,6 +82,8 @@ sigru_seed.sql
 ```
 
 ---
+
+Responsáveis pela criação da estrutura do banco (tabelas, relacionamentos e constraints) e alimentação de dados.
 
 ## Executando o sistema
 
